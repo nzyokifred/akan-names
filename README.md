@@ -16,7 +16,7 @@ To access this project on your local files, you can clone it using these steps:
 4. Enjoy :)!!!!
 
 ## Technologies Used
-HTML
+1. HTML
 CSS
 GIT
 GITHUB
