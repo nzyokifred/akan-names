@@ -18,7 +18,7 @@ To access this project on your local files, you can clone it using these steps:
 ## Technologies Used
 1. HTML
 2. CSS
-GIT
+3. GIT
 GITHUB
 Live Site
 View [Live] ( https://github.com/nzyokifred/portfolio)
