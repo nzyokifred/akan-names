@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Akan-names</title>
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous" />
+    <link rel="stylesheet" href="/static/CSS/styles.css">
+</head>
+
+<body>
+    <h1 id="akan">AkanNames</h1>
+    <img src="static/images/3blackwomen.jpeg" alt="3blackwomen" />
+
+    <h2 id="title">DIVERSIFICATION OF THE AFRICAN NAMES</h2>
+    <div class="paragraph">
+        <p>
+            In Africa, particularly West Africa, names hold an important traditional significance. Baby naming ceremonies are considered a crucial event and occur within the first week after a baby's birth. Africans believe "Until an identifying word is attached
+            to an infant’s body and soul, it doesn’t truly exist, doesn’t truly have a place in the world.
+        </p>
+    </div>
+    <div class="forms">
+        <form onsubmit='calculate(); return false'>
+            <div class="inputs">
+                <label for="date">Date :</label>
+                <input placeholder="date" type="number" id="date" required> </input>
+
+            </div>
+            <div class="inputs">
+                <label for="month">Month :</label>
+                <input placeholder="month" type="number" id="month" required> </input>
+            </div>
+            <div class="inputs">
+                <label for="year">Year :</label>
+                <input placeholder="year" type="number" id="year" required>
+                </input>
+            </div>
+            <div>
+                Gender
+                <div>
+                    <input type="radio" id="female" name="gender"> Female
+                </div>
+                <div>
+                    <input type="radio" id="male" name="gender"> Male
+                </div>
+            </div>
+            <input class="submit" type="submit" id="sub" value="submit"></input>
+        </form>
+    </div>
+
+    <script src="static/JS/main.js"></script>
+</body>
+
+</html>
