@@ -21,7 +21,7 @@ To access this project on your local files, you can clone it using these steps:
 3. Javascript
 4. GIT
 5. GITHUB
-Live Site
+## Live Site
 View [Live] ( https://github.com/nzyokifred/portfolio)
 
 Licence
