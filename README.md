@@ -39,4 +39,4 @@ You can reach me through my E-mail address
 View [Live] ( https://github.com/nzyokifred/akan-names)
 
 ## Licence
-This project is under the [MIT] [license].
+This project is under the [MIT] (license);
