@@ -10,10 +10,10 @@ You need to have git installed, You can install it with the following command in
 ## Setup
 To access this project on your local files, you can clone it using these steps:
 
-Open your terminal
-Use this command to clone `$ git clone (https://github.com/nzyokifred/portfolio)
-This will clone the repositoty into your local folder
-Enjoy :)!!!!
+1. Open your terminal
+2. Use this command to clone `$ git clone (https://github.com/nzyokifred/portfolio)
+3. This will clone the repositoty into your local folder
+4. Enjoy :)!!!!
 Technologies Used
 HTML
 CSS
