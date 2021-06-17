@@ -14,7 +14,8 @@ To access this project on your local files, you can clone it using these steps:
 2. Use this command to clone `$ git clone (https://github.com/nzyokifred/portfolio)
 3. This will clone the repositoty into your local folder
 4. Enjoy :)!!!!
-Technologies Used
+
+## Technologies Used
 HTML
 CSS
 GIT
