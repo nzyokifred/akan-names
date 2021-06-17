@@ -1,0 +1,26 @@
+## Author
+Fred Kimanthi.
+
+## Description
+This website gives a brief description of the user and some of the projects undertaken with their repo-links. It gives a clear and easily understandable use of HTML ,Javascript & CSS.
+
+## Prerequisities
+You need to have git installed, You can install it with the following command in your terminal, ($ sudo apt install git-all)
+
+## Setup
+To access this project on your local files, you can clone it using these steps:
+
+Open your terminal
+Use this command to clone `$ git clone (https://github.com/nzyokifred/portfolio)
+This will clone the repositoty into your local folder
+Enjoy :)!!!!
+Technologies Used
+HTML
+CSS
+GIT
+GITHUB
+Live Site
+View [Live] ( https://github.com/nzyokifred/portfolio)
+
+Licence
+This project is under the MIT license
