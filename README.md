@@ -22,7 +22,7 @@ To access this project on your local files, you can clone it using these steps:
 4. GIT
 5. GITHUB
 ## Live Site
-View [Live] ( https://github.com/nzyokifred/portfolio)
+View [Live] ( https://github.com/nzyokifred/akan-names)
 
 Licence
 This project is under the MIT license
