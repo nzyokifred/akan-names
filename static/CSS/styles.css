@@ -17,7 +17,7 @@ body {
     position: absolute;
     bottom: 80%;
     margin-left: 10%;
-    font-size: 35px;
+    font-size: 40px;
 }
 
 .paragraph p {
@@ -34,9 +34,14 @@ body {
 
 strong {
     color: brown;
+<<<<<<< HEAD
     font-family: italic;
     font-weight: bold;
     font-size: 30px;
+=======
+    font-size: 30px;
+    font-family: italic;
+>>>>>>> gh-pages
 }
 
 img {
@@ -48,6 +53,7 @@ img {
     display: flex;
     justify-content: center;
     align-items: center;
+    width: 70%;
 }
 
 .container,
