@@ -17,7 +17,7 @@ body {
     position: absolute;
     bottom: 80%;
     margin-left: 10%;
-    font-size: 35px;
+    font-size: 40px;
 }
 
 .paragraph p {
@@ -27,7 +27,7 @@ body {
     justify-content: center;
     align-content: center;
     position: absolute;
-    bottom: 40%;
+    bottom: 50%;
     width: 50%;
     margin-left: 10%;
 }
@@ -37,13 +37,14 @@ img {
     border-radius: 50%;
 }
 
-.forms {
+.container {
     display: flex;
     justify-content: center;
     align-items: center;
+    width: 70%;
 }
 
-.forms,
+.container,
 .inputs {
     display: flex;
     justify-content: center;
